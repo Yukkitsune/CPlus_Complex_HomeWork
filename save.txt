@@ -1,0 +1,5 @@
+Group name: Group 1
+23u303,  Merkulov Alexander,  4.2,  5.3,  geography, 4.1
+23u304,  Vitaliy Mikhailov,  3.4, 4.6,  lang, 3.8
+23u305,  Elena Petrova,  3.9,  4.0,  history, 4.7
+23u306,  Dmitry Ivanov,  4.1,  4.8,  physics, 4.5
